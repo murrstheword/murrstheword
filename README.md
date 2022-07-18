@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @murrstheword
 - 👀 I’m interested in ... getting better at coding
-- 🌱 I’m currently learning ... how to make angel food cake without
-- 💞️ I’m looking to collaborate on ... nothing at the moment!
+- 🌱 I’m currently learning ... how to make cool illustrations with CSS
+- 💞️ I’m looking to collaborate on ... exciting projects!
 - 📫 How to reach me ... millchristianna@gmail.com
 
 <!---
